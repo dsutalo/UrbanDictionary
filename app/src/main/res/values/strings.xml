@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UrbanDictionary</string>
+    <string name="button">Button</string>
+    <string name="enter_a_term">Enter a term</string>
+    <string name="word">Word</string>
+    <string name="definition">Definition</string>
+    <string name="likes">Likes</string>
+    <string name="dislikes">Dislikes</string>
+</resources>
